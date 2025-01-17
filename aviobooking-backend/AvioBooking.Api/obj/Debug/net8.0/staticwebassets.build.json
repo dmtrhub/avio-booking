@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "yWxFxGYpVUZldcP+4k25sjKXEBR0fUjgTeY3/RhR+bw=",
+  "Source": "AvioBooking.Api",
+  "BasePath": "_content/AvioBooking.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
