@@ -1,0 +1,15 @@
+G:\AVIOBOOKING\aviobooking\aviobooking-backend\Domain\bin\Debug\net8.0\Domain.deps.json
+G:\AVIOBOOKING\aviobooking\aviobooking-backend\Domain\bin\Debug\net8.0\Domain.runtimeconfig.json
+G:\AVIOBOOKING\aviobooking\aviobooking-backend\Domain\bin\Debug\net8.0\Domain.dll
+G:\AVIOBOOKING\aviobooking\aviobooking-backend\Domain\bin\Debug\net8.0\Domain.pdb
+G:\AVIOBOOKING\aviobooking\aviobooking-backend\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+G:\AVIOBOOKING\aviobooking\aviobooking-backend\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+G:\AVIOBOOKING\aviobooking\aviobooking-backend\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+G:\AVIOBOOKING\aviobooking\aviobooking-backend\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+G:\AVIOBOOKING\aviobooking\aviobooking-backend\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+G:\AVIOBOOKING\aviobooking\aviobooking-backend\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+G:\AVIOBOOKING\aviobooking\aviobooking-backend\Domain\obj\Debug\net8.0\Domain.dll
+G:\AVIOBOOKING\aviobooking\aviobooking-backend\Domain\obj\Debug\net8.0\refint\Domain.dll
+G:\AVIOBOOKING\aviobooking\aviobooking-backend\Domain\obj\Debug\net8.0\Domain.pdb
+G:\AVIOBOOKING\aviobooking\aviobooking-backend\Domain\obj\Debug\net8.0\Domain.genruntimeconfig.cache
+G:\AVIOBOOKING\aviobooking\aviobooking-backend\Domain\obj\Debug\net8.0\ref\Domain.dll

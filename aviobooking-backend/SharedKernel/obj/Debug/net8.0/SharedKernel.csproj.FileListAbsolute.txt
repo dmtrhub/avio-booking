@@ -1,0 +1,12 @@
+G:\AVIOBOOKING\aviobooking\aviobooking-backend\SharedKernel\bin\Debug\net8.0\SharedKernel.deps.json
+G:\AVIOBOOKING\aviobooking\aviobooking-backend\SharedKernel\bin\Debug\net8.0\SharedKernel.dll
+G:\AVIOBOOKING\aviobooking\aviobooking-backend\SharedKernel\bin\Debug\net8.0\SharedKernel.pdb
+G:\AVIOBOOKING\aviobooking\aviobooking-backend\SharedKernel\obj\Debug\net8.0\SharedKernel.GeneratedMSBuildEditorConfig.editorconfig
+G:\AVIOBOOKING\aviobooking\aviobooking-backend\SharedKernel\obj\Debug\net8.0\SharedKernel.AssemblyInfoInputs.cache
+G:\AVIOBOOKING\aviobooking\aviobooking-backend\SharedKernel\obj\Debug\net8.0\SharedKernel.AssemblyInfo.cs
+G:\AVIOBOOKING\aviobooking\aviobooking-backend\SharedKernel\obj\Debug\net8.0\SharedKernel.csproj.CoreCompileInputs.cache
+G:\AVIOBOOKING\aviobooking\aviobooking-backend\SharedKernel\obj\Debug\net8.0\SharedKernel.sourcelink.json
+G:\AVIOBOOKING\aviobooking\aviobooking-backend\SharedKernel\obj\Debug\net8.0\SharedKernel.dll
+G:\AVIOBOOKING\aviobooking\aviobooking-backend\SharedKernel\obj\Debug\net8.0\refint\SharedKernel.dll
+G:\AVIOBOOKING\aviobooking\aviobooking-backend\SharedKernel\obj\Debug\net8.0\SharedKernel.pdb
+G:\AVIOBOOKING\aviobooking\aviobooking-backend\SharedKernel\obj\Debug\net8.0\ref\SharedKernel.dll
