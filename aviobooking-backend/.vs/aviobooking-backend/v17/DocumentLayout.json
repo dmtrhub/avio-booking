@@ -1,7 +1,87 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "G:\\AVIOBOOKING\\aviobooking\\aviobooking-backend\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Aviobooking/True/SqlTable/dbo.Users.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C9A9687-DE6B-4189-AE20-A8D55520D2AF}|AvioBooking.Api\\AvioBooking.Api.csproj|g:\\aviobooking\\aviobooking\\aviobooking-backend\\aviobooking.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C9A9687-DE6B-4189-AE20-A8D55520D2AF}|AvioBooking.Api\\AvioBooking.Api.csproj|solutionrelative:aviobooking.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63E79E51-9025-4BE1-9790-99F1940F9854}|Application\\Application.csproj|g:\\aviobooking\\aviobooking\\aviobooking-backend\\application\\dtos\\auth\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63E79E51-9025-4BE1-9790-99F1940F9854}|Application\\Application.csproj|solutionrelative:application\\dtos\\auth\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95F203D6-8E4E-49F1-8AAC-28F54BCE4228}|Infrastructure\\Infrastructure.csproj|g:\\aviobooking\\aviobooking\\aviobooking-backend\\infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95F203D6-8E4E-49F1-8AAC-28F54BCE4228}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C9A9687-DE6B-4189-AE20-A8D55520D2AF}|AvioBooking.Api\\AvioBooking.Api.csproj|g:\\aviobooking\\aviobooking\\aviobooking-backend\\aviobooking.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8C9A9687-DE6B-4189-AE20-A8D55520D2AF}|AvioBooking.Api\\AvioBooking.Api.csproj|solutionrelative:aviobooking.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C9A9687-DE6B-4189-AE20-A8D55520D2AF}|AvioBooking.Api\\AvioBooking.Api.csproj|g:\\aviobooking\\aviobooking\\aviobooking-backend\\aviobooking.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C9A9687-DE6B-4189-AE20-A8D55520D2AF}|AvioBooking.Api\\AvioBooking.Api.csproj|solutionrelative:aviobooking.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95F203D6-8E4E-49F1-8AAC-28F54BCE4228}|Infrastructure\\Infrastructure.csproj|g:\\aviobooking\\aviobooking\\aviobooking-backend\\infrastructure\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95F203D6-8E4E-49F1-8AAC-28F54BCE4228}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63E79E51-9025-4BE1-9790-99F1940F9854}|Application\\Application.csproj|g:\\aviobooking\\aviobooking\\aviobooking-backend\\application\\abstractions\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63E79E51-9025-4BE1-9790-99F1940F9854}|Application\\Application.csproj|solutionrelative:application\\abstractions\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95F203D6-8E4E-49F1-8AAC-28F54BCE4228}|Infrastructure\\Infrastructure.csproj|g:\\aviobooking\\aviobooking\\aviobooking-backend\\infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95F203D6-8E4E-49F1-8AAC-28F54BCE4228}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B74276DB-074F-437A-977E-5F02946EFB8E}|Domain\\Domain.csproj|g:\\aviobooking\\aviobooking\\aviobooking-backend\\domain\\abstractions\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B74276DB-074F-437A-977E-5F02946EFB8E}|Domain\\Domain.csproj|solutionrelative:domain\\abstractions\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63E79E51-9025-4BE1-9790-99F1940F9854}|Application\\Application.csproj|g:\\aviobooking\\aviobooking\\aviobooking-backend\\application\\dtos\\auth\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63E79E51-9025-4BE1-9790-99F1940F9854}|Application\\Application.csproj|solutionrelative:application\\dtos\\auth\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95F203D6-8E4E-49F1-8AAC-28F54BCE4228}|Infrastructure\\Infrastructure.csproj|g:\\aviobooking\\aviobooking\\aviobooking-backend\\infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{95F203D6-8E4E-49F1-8AAC-28F54BCE4228}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95F203D6-8E4E-49F1-8AAC-28F54BCE4228}|Infrastructure\\Infrastructure.csproj|g:\\aviobooking\\aviobooking\\aviobooking-backend\\infrastructure\\persistance\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95F203D6-8E4E-49F1-8AAC-28F54BCE4228}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\persistance\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95F203D6-8E4E-49F1-8AAC-28F54BCE4228}|Infrastructure\\Infrastructure.csproj|g:\\aviobooking\\aviobooking\\aviobooking-backend\\infrastructure\\authentication\\usercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95F203D6-8E4E-49F1-8AAC-28F54BCE4228}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\authentication\\usercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95F203D6-8E4E-49F1-8AAC-28F54BCE4228}|Infrastructure\\Infrastructure.csproj|g:\\aviobooking\\aviobooking\\aviobooking-backend\\infrastructure\\authentication\\tokenprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95F203D6-8E4E-49F1-8AAC-28F54BCE4228}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\authentication\\tokenprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95F203D6-8E4E-49F1-8AAC-28F54BCE4228}|Infrastructure\\Infrastructure.csproj|g:\\aviobooking\\aviobooking\\aviobooking-backend\\infrastructure\\authentication\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95F203D6-8E4E-49F1-8AAC-28F54BCE4228}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\authentication\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95F203D6-8E4E-49F1-8AAC-28F54BCE4228}|Infrastructure\\Infrastructure.csproj|g:\\aviobooking\\aviobooking\\aviobooking-backend\\infrastructure\\authentication\\claimsprincipalextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95F203D6-8E4E-49F1-8AAC-28F54BCE4228}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\authentication\\claimsprincipalextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C9A9687-DE6B-4189-AE20-A8D55520D2AF}|AvioBooking.Api\\AvioBooking.Api.csproj|g:\\aviobooking\\aviobooking\\aviobooking-backend\\aviobooking.api\\extensions\\applicationbuilderextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C9A9687-DE6B-4189-AE20-A8D55520D2AF}|AvioBooking.Api\\AvioBooking.Api.csproj|solutionrelative:aviobooking.api\\extensions\\applicationbuilderextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C9A9687-DE6B-4189-AE20-A8D55520D2AF}|AvioBooking.Api\\AvioBooking.Api.csproj|g:\\aviobooking\\aviobooking\\aviobooking-backend\\aviobooking.api\\extensions\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C9A9687-DE6B-4189-AE20-A8D55520D2AF}|AvioBooking.Api\\AvioBooking.Api.csproj|solutionrelative:aviobooking.api\\extensions\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C9A9687-DE6B-4189-AE20-A8D55520D2AF}|AvioBooking.Api\\AvioBooking.Api.csproj|g:\\aviobooking\\aviobooking\\aviobooking-backend\\aviobooking.api\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C9A9687-DE6B-4189-AE20-A8D55520D2AF}|AvioBooking.Api\\AvioBooking.Api.csproj|solutionrelative:aviobooking.api\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +89,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -18,6 +98,267 @@
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dbo.Users [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Aviobooking/True/SqlTable/dbo.Users.sql",
+              "ToolTip": "dbo.Users [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-01-20T00:09:11.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "G:\\AVIOBOOKING\\aviobooking\\aviobooking-backend\\AvioBooking.Api\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "AvioBooking.Api\\Controllers\\AuthController.cs",
+              "ToolTip": "G:\\AVIOBOOKING\\aviobooking\\aviobooking-backend\\AvioBooking.Api\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "AvioBooking.Api\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAowCAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T18:47:46.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "G:\\AVIOBOOKING\\aviobooking\\aviobooking-backend\\Infrastructure\\Persistance\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Persistance\\ApplicationDbContext.cs",
+              "ToolTip": "G:\\AVIOBOOKING\\aviobooking\\aviobooking-backend\\Infrastructure\\Persistance\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Infrastructure\\Persistance\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T19:01:48.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "G:\\AVIOBOOKING\\aviobooking\\aviobooking-backend\\Application\\DTOs\\Auth\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\Auth\\LoginRequest.cs",
+              "ToolTip": "G:\\AVIOBOOKING\\aviobooking\\aviobooking-backend\\Application\\DTOs\\Auth\\LoginRequest.cs",
+              "RelativeToolTip": "Application\\DTOs\\Auth\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T18:54:18.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RegisterRequest.cs",
+              "DocumentMoniker": "G:\\AVIOBOOKING\\aviobooking\\aviobooking-backend\\Application\\DTOs\\Auth\\RegisterRequest.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\Auth\\RegisterRequest.cs",
+              "ToolTip": "G:\\AVIOBOOKING\\aviobooking\\aviobooking-backend\\Application\\DTOs\\Auth\\RegisterRequest.cs",
+              "RelativeToolTip": "Application\\DTOs\\Auth\\RegisterRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T18:53:55.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "G:\\AVIOBOOKING\\aviobooking\\aviobooking-backend\\Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\UserRepository.cs",
+              "ToolTip": "G:\\AVIOBOOKING\\aviobooking\\aviobooking-backend\\Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T18:52:52.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "G:\\AVIOBOOKING\\aviobooking\\aviobooking-backend\\Domain\\Abstractions\\Repositories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Abstractions\\Repositories\\IUserRepository.cs",
+              "ToolTip": "G:\\AVIOBOOKING\\aviobooking\\aviobooking-backend\\Domain\\Abstractions\\Repositories\\IUserRepository.cs",
+              "RelativeToolTip": "Domain\\Abstractions\\Repositories\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T18:51:56.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "G:\\AVIOBOOKING\\aviobooking\\aviobooking-backend\\Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "G:\\AVIOBOOKING\\aviobooking\\aviobooking-backend\\Infrastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "Infrastructure\\DependencyInjection.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAhwCcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T18:36:04.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "G:\\AVIOBOOKING\\aviobooking\\aviobooking-backend\\AvioBooking.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "AvioBooking.Api\\appsettings.json",
+              "ToolTip": "G:\\AVIOBOOKING\\aviobooking\\aviobooking-backend\\AvioBooking.Api\\appsettings.json",
+              "RelativeToolTip": "AvioBooking.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-19T19:44:07.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserContext.cs",
+              "DocumentMoniker": "G:\\AVIOBOOKING\\aviobooking\\aviobooking-backend\\Infrastructure\\Authentication\\UserContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Authentication\\UserContext.cs",
+              "ToolTip": "G:\\AVIOBOOKING\\aviobooking\\aviobooking-backend\\Infrastructure\\Authentication\\UserContext.cs",
+              "RelativeToolTip": "Infrastructure\\Authentication\\UserContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T18:45:23.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\AVIOBOOKING\\aviobooking\\aviobooking-backend\\AvioBooking.Api\\Program.cs",
+              "RelativeDocumentMoniker": "AvioBooking.Api\\Program.cs",
+              "ToolTip": "G:\\AVIOBOOKING\\aviobooking\\aviobooking-backend\\AvioBooking.Api\\Program.cs",
+              "RelativeToolTip": "AvioBooking.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T18:36:06.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "G:\\AVIOBOOKING\\aviobooking\\aviobooking-backend\\Application\\Abstractions\\Services\\IUserService.cs",
+              "RelativeDocumentMoniker": "Application\\Abstractions\\Services\\IUserService.cs",
+              "ToolTip": "G:\\AVIOBOOKING\\aviobooking\\aviobooking-backend\\Application\\Abstractions\\Services\\IUserService.cs",
+              "RelativeToolTip": "Application\\Abstractions\\Services\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T19:04:43.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Infrastructure",
+              "DocumentMoniker": "G:\\AVIOBOOKING\\aviobooking\\aviobooking-backend\\Infrastructure\\Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Infrastructure\\Infrastructure.csproj",
+              "ToolTip": "G:\\AVIOBOOKING\\aviobooking\\aviobooking-backend\\Infrastructure\\Infrastructure.csproj",
+              "RelativeToolTip": "Infrastructure\\Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-19T19:06:57.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "G:\\AVIOBOOKING\\aviobooking\\aviobooking-backend\\Infrastructure\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Services\\UserService.cs",
+              "ToolTip": "G:\\AVIOBOOKING\\aviobooking\\aviobooking-backend\\Infrastructure\\Services\\UserService.cs",
+              "RelativeToolTip": "Infrastructure\\Services\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T19:07:14.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TokenProvider.cs",
+              "DocumentMoniker": "G:\\AVIOBOOKING\\aviobooking\\aviobooking-backend\\Infrastructure\\Authentication\\TokenProvider.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Authentication\\TokenProvider.cs",
+              "ToolTip": "G:\\AVIOBOOKING\\aviobooking\\aviobooking-backend\\Infrastructure\\Authentication\\TokenProvider.cs",
+              "RelativeToolTip": "Infrastructure\\Authentication\\TokenProvider.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAAA4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T18:45:22.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PasswordHasher.cs",
+              "DocumentMoniker": "G:\\AVIOBOOKING\\aviobooking\\aviobooking-backend\\Infrastructure\\Authentication\\PasswordHasher.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Authentication\\PasswordHasher.cs",
+              "ToolTip": "G:\\AVIOBOOKING\\aviobooking\\aviobooking-backend\\Infrastructure\\Authentication\\PasswordHasher.cs",
+              "RelativeToolTip": "Infrastructure\\Authentication\\PasswordHasher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T18:45:21.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ClaimsPrincipalExtensions.cs",
+              "DocumentMoniker": "G:\\AVIOBOOKING\\aviobooking\\aviobooking-backend\\Infrastructure\\Authentication\\ClaimsPrincipalExtensions.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Authentication\\ClaimsPrincipalExtensions.cs",
+              "ToolTip": "G:\\AVIOBOOKING\\aviobooking\\aviobooking-backend\\Infrastructure\\Authentication\\ClaimsPrincipalExtensions.cs",
+              "RelativeToolTip": "Infrastructure\\Authentication\\ClaimsPrincipalExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T18:45:20.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ServiceCollectionExtensions.cs",
+              "DocumentMoniker": "G:\\AVIOBOOKING\\aviobooking\\aviobooking-backend\\AvioBooking.Api\\Extensions\\ServiceCollectionExtensions.cs",
+              "RelativeDocumentMoniker": "AvioBooking.Api\\Extensions\\ServiceCollectionExtensions.cs",
+              "ToolTip": "G:\\AVIOBOOKING\\aviobooking\\aviobooking-backend\\AvioBooking.Api\\Extensions\\ServiceCollectionExtensions.cs",
+              "RelativeToolTip": "AvioBooking.Api\\Extensions\\ServiceCollectionExtensions.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T18:41:48.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ApplicationBuilderExtensions.cs",
+              "DocumentMoniker": "G:\\AVIOBOOKING\\aviobooking\\aviobooking-backend\\AvioBooking.Api\\Extensions\\ApplicationBuilderExtensions.cs",
+              "RelativeDocumentMoniker": "AvioBooking.Api\\Extensions\\ApplicationBuilderExtensions.cs",
+              "ToolTip": "G:\\AVIOBOOKING\\aviobooking\\aviobooking-backend\\AvioBooking.Api\\Extensions\\ApplicationBuilderExtensions.cs",
+              "RelativeToolTip": "AvioBooking.Api\\Extensions\\ApplicationBuilderExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T18:41:37.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "G:\\AVIOBOOKING\\aviobooking\\aviobooking-backend\\AvioBooking.Api\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "AvioBooking.Api\\DependencyInjection.cs",
+              "ToolTip": "G:\\AVIOBOOKING\\aviobooking\\aviobooking-backend\\AvioBooking.Api\\DependencyInjection.cs",
+              "RelativeToolTip": "AvioBooking.Api\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T18:43:09.858Z",
+              "EditorCaption": ""
             }
           ]
         }

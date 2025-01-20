@@ -1,21 +1,17 @@
-using Domain;
 using Application;
 using Infrastructure;
-using Infrastructure.Persistance;
-using Microsoft.EntityFrameworkCore;
+using AvioBooking.Api.Extensions;
+using AvioBooking.Api;
 
 var builder = WebApplication.CreateBuilder(args);
 
-builder.Services.AddControllers();
-builder.Services.AddEndpointsApiExplorer();
-builder.Services.AddSwaggerGen();
+builder.Configuration.AddJsonFile("appsettings.json", optional: false, reloadOnChange: true);
 
-builder.Services.AddDomain()
-                .AddApplication()
-                .AddInfrastructure();
+builder.Services.AddSwaggerGenWithAuth();
 
-builder.Services.AddDbContext<ApplicationDbContext>(options =>
-    options.UseSqlServer(builder.Configuration.GetConnectionString("Database")));
+builder.Services.AddApplication()
+                .AddPresentation()
+                .AddInfrastructure(builder.Configuration);
 
 var app = builder.Build();
 

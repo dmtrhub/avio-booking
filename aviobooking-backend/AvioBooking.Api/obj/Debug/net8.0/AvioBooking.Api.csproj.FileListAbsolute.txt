@@ -213,3 +213,10 @@ G:\AVIOBOOKING\aviobooking\aviobooking-backend\AvioBooking.Api\obj\Debug\net8.0\
 G:\AVIOBOOKING\aviobooking\aviobooking-backend\AvioBooking.Api\obj\Debug\net8.0\AvioBook.A069248A.Up2Date
 G:\AVIOBOOKING\aviobooking\aviobooking-backend\AvioBooking.Api\obj\Debug\net8.0\AvioBooking.Api.genruntimeconfig.cache
 G:\AVIOBOOKING\aviobooking\aviobooking-backend\AvioBooking.Api\obj\Debug\net8.0\ref\AvioBooking.Api.dll
+G:\AVIOBOOKING\aviobooking\aviobooking-backend\AvioBooking.Api\obj\Debug\net8.0\AvioBooking.Api.MvcApplicationPartsAssemblyInfo.cs
+G:\AVIOBOOKING\aviobooking\aviobooking-backend\AvioBooking.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+G:\AVIOBOOKING\aviobooking\aviobooking-backend\AvioBooking.Api\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+G:\AVIOBOOKING\aviobooking\aviobooking-backend\AvioBooking.Api\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+G:\AVIOBOOKING\aviobooking\aviobooking-backend\AvioBooking.Api\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+G:\AVIOBOOKING\aviobooking\aviobooking-backend\AvioBooking.Api\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
+G:\AVIOBOOKING\aviobooking\aviobooking-backend\AvioBooking.Api\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
